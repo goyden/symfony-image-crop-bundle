@@ -1,4 +1,4 @@
-#Symfony Image Crop Bundle
+# Symfony Image Crop Bundle
 
 Бандл для Symfony для обрезания изображения по координатам.
  
